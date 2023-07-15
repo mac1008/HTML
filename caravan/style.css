@@ -48,7 +48,7 @@ header .heading{
   margin-top:30px;
   color:#fff;
 }
-.main{
+main{
   width:800px;
   display:flex;
   justify-content:center;
